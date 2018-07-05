@@ -36,7 +36,7 @@
                  默认协议为 dubbo协议
                 默认端口号为 20880
 
-               默认dubbo会自动获取本机host（ip）地址
+               默认dubbo会自动获取本机host（ip）地址mmm
           -->
     <dubbo:protocol name="dubbo" port="20880"/>
     <!-- 定义 Dubbo 协议名称及使用的端口，dubbo 协议缺省端口为 20880，如果配置为 -1 或者没有配置 port，则会分配一个没有被占用的端口 -->
